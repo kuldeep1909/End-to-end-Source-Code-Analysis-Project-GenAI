@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+db/*
+research/db/*
+research/test_repo/*
 # C extensions
 *.so
 

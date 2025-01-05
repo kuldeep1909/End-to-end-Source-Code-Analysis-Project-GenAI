@@ -1,0 +1,9 @@
+openai==0.28
+tiktoken
+chromadb==0.4.4
+langchain_groq
+langchain
+flask
+GitPython
+python-dotenv
+langchain-community
